@@ -1,4 +1,3 @@
-
 # 🛒 E-Commerce Sales & Customer Insights Dashboard
 
 ## 📌 End-to-End Data Analytics Project (SQL + Power BI)
@@ -112,7 +111,6 @@ Revenue growth is driven by **new users, not loyalty**
 ### 🌍 Revenue is Highly Concentrated in Few States
 
 * São Paulo (SP) contributes the highest revenue
-* Other states contribute significantly less
 
 **Insight:**
 Business is **geographically dependent**
@@ -137,7 +135,7 @@ Revenue follows the **Pareto principle (80/20 rule)**
 
 **Insight:**
 Operations are efficient overall but **inconsistent during peak periods**
-➡️ Impacts customer experience and satisfaction
+➡️ Impacts customer experience
 
 ---
 
@@ -147,17 +145,16 @@ Operations are efficient overall but **inconsistent during peak periods**
 
 **Insight:**
 Customers are satisfied but not highly delighted
-➡️ Opportunity to improve experience and service quality
+➡️ Opportunity to improve service quality
 
 ---
 
 ### 👑 High-Value Customers Drive Revenue
 
-* Small segment contributes a large share of revenue
+* Small segment contributes large revenue
 
 **Insight:**
-Business relies on **high-value customers**
-➡️ Retention of these customers is critical
+Retention of high-value customers is critical
 
 ---
 
@@ -166,8 +163,7 @@ Business relies on **high-value customers**
 * Credit card dominates transactions
 
 **Insight:**
-Customers prefer **convenient payment methods**
-➡️ Opportunity to optimize checkout and offers
+Customers prefer convenient payment options
 
 ---
 
@@ -178,7 +174,6 @@ Customers prefer **convenient payment methods**
 * 🌍 Expand in **low-performing regions**
 * 🛍 Invest in **top-performing categories**
 * ⭐ Enhance **customer experience**
-* 💡 Focus on **high-value customer retention strategies**
 
 ---
 
@@ -189,7 +184,7 @@ Customers prefer **convenient payment methods**
 * Data Modeling (Star Schema)
 * DAX (Advanced KPIs & Metrics)
 * Data Visualization & Storytelling
-* Business Analysis & Insight Generation
+* Business Analysis
 
 ---
 
@@ -198,20 +193,17 @@ Customers prefer **convenient payment methods**
 * Identified **critical retention gap**
 * Highlighted **key revenue drivers**
 * Evaluated **delivery efficiency**
-* Provided **actionable business recommendations**
-* Delivered a **decision-ready dashboard**
-
----
-
-## 📌 Conclusion
-
-This project demonstrates how data analytics can uncover **hidden business challenges**, such as low retention and revenue concentration, and help organizations make **data-driven decisions** for long-term growth.
+* Delivered **actionable insights**
 
 ---
 
 ## 📷 Dashboard Preview
 
-```
-![Dashboard Preview](https://github.com/ankesh4283/E-Commerce-Sales-Customer-Insights-Dashboard/blob/main/Dashboard%20Page%201.png)
-![Dashboard Preview](https://github.com/ankesh4283/E-Commerce-Sales-Customer-Insights-Dashboard/blob/main/Dashboard%20Page%202.png)
+### 📊 Executive Business Overview
+
+![Executive Dashboard](https://github.com/ankesh4283/E-Commerce-Sales-Customer-Insights-Dashboard/blob/main/Dashboard%20Page%201.png)
+
+### 👥 Customer Insights
+
+![Customer Dashboard](https://github.com/ankesh4283/E-Commerce-Sales-Customer-Insights-Dashboard/blob/main/Dashboard%20Page%202.png)
 
